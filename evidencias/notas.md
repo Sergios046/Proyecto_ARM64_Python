@@ -16,4 +16,4 @@
 
 ## Notas breves para el profesor
 
-_(Escribe aquí 2–3 líneas: entorno WSL x86_64, uso de HOST_STUB_ASM, cross-compile ARM64.)_
+
