@@ -112,4 +112,4 @@ git commit -m "Entrega final: Python + C + ARM64 (Sergio Israel Jacobo Velasquez
 git push -u origin main
 ```
 
-(Usa la URL HTTPS del repositorio que te asignó Classroom.)
+
